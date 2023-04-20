@@ -76,7 +76,7 @@
     "mocha": "^3.5.3",
     "mockfirebase": "^0.12.0",
     "sinon": "^1.17.0",
-    "supertest": "^1.1.0",
+    "supertest": "^6.3.3",
     "wdio": "^1.0.3",
     "wdio-firefox-profile-service": "^0.1.0",
     "wdio-mocha-framework": "^0.5.11",
